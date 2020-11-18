@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Gloat Home Task" configfailurepolicy="continue">
+    <test name="Gloat Home Task">
+        <classes>
+            <class name="HomeTaskTest" />
+        </classes>
+    </test>
+</suite>
